@@ -11,95 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainUI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis-generator-gui-0.8.4/src/main/java/com/zzg/mybatis/generator/MainUI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/javafx-src.zip!/javafx/application/Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="249" selection-start-line="249" selection-end-line="249" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LauncherImpl.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/javafx-src.zip!/com/sun/javafx/application/LauncherImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="127" selection-start-line="127" selection-end-line="127" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MySQLLimitPlugin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis-generator-gui-0.8.4/src/main/java/com/zzg/mybatis/generator/plugins/MySQLLimitPlugin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DbUtil.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mybatis-generator-gui-0.8.4/src/main/java/com/zzg/mybatis/generator/util/DbUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConfigHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis-generator-gui-0.8.4/src/main/java/com/zzg/mybatis/generator/util/ConfigHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="252" selection-start-line="252" selection-end-line="252" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FXMLLoader.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="1772" selection-start-line="1772" selection-end-line="1772" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Class.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/lang/Class.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="2259" column="24" selection-start-line="2259" selection-start-column="24" selection-end-line="2259" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DbConnectionController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis-generator-gui-0.8.4/src/main/java/com/zzg/mybatis/generator/controller/DbConnectionController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="68" selection-start-line="68" selection-end-line="68" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -108,6 +20,7 @@
         <option value="$PROJECT_DIR$/mybatis-generator-gui-0.8.4/src/main/java/com/zzg/mybatis/generator/MainUI.java" />
         <option value="$PROJECT_DIR$/mybatis-generator-gui-0.8.4/src/main/java/com/zzg/mybatis/generator/controller/MainUIController.java" />
         <option value="$PROJECT_DIR$/mybatis-generator-gui-0.8.4/src/main/java/com/zzg/mybatis/generator/util/ConfigHelper.java" />
+        <option value="$PROJECT_DIR$/mybatis-generator-gui-0.8.4/src/main/java/com/zzg/mybatis/generator/util/DbUtil.java" />
       </list>
     </option>
   </component>
@@ -295,16 +208,15 @@
       <option name="presentableId" value="Default" />
       <updated>1537413377825</updated>
       <workItem from="1537413379780" duration="8438000" />
-      <workItem from="1537428071282" duration="6932000" />
+      <workItem from="1537428071282" duration="7778000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15370000" />
+    <option name="totallyTimeSpent" value="16216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -320,13 +232,13 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18869936" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18869936" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.6913646" visible="true" weight="0.29945946" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6913646" visible="true" weight="0.29945946" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -347,7 +259,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mybatis-generator-gui-0.8.4/src/main/java/com/zzg/mybatis/generator/util/DbUtil.java</url>
-          <line>43</line>
+          <line>45</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -605,8 +517,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mybatis-generator-gui-0.8.4/src/main/java/com/zzg/mybatis/generator/util/DbUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="-2">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
         </state>
       </provider>
     </entry>

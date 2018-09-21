@@ -41,6 +41,8 @@ public class DbUtil {
         String url = getConnectionUrlWithSchema(config);
 	    Properties props = new Properties();
 
+
+
 	    props.setProperty("user", config.getUsername()); //$NON-NLS-1$
 	    props.setProperty("password", config.getPassword()); //$NON-NLS-1$
 
